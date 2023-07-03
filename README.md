@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Abbas (22)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on websites 
+- 📖 I’m currently learning JavaScript
+- 😁 I’m looking to collaborate on websites 
 - 📫 How to reach me: adamabbas64@gmail.com
 
 <!---
