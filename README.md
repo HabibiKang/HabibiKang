@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Adam Abbas (22)
 - 👀 I’m interested in Web Development
-- 📖 I’m currently learning JavaScript
-- 😁 I’m looking to collaborate on websites 
+- 📖 I’m currently learning new Python libraries 
+- 😁 I’m looking to collaborate on programs/web-apps/websites 
 - 📫 How to reach me: adamabbas64@gmail.com
 
 <!---
 HabibiKang/HabibiKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🚀 Welcome to My Web Dev Wonderland 🚀
+🚀 Welcome to My Python Palace/Web Dev Wonderland 🚀
 
 👋 Hey there! I'm Adam Ababs, a passionate and versatile front-end web developer intern on a mission to turn ideas into interactive digital experiences. With a flair for HTML and CSS, a responsive design certification from freeCodeCamp, and the prowess of a Python programmer certified by Harvard's CS50, I'm your go-to expert for innovative solutions that bridge creativity and functionality.
 
