@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 📖 I’m currently learning new Python libraries 
 - 😁 I’m looking to collaborate on programs/web-apps/websites 
-- 📫 How to reach me: adamabbas64@gmail.com
+- 📫 How to reach me: adamabbas.webdev@gmail.com
 
 <!---
 HabibiKang/HabibiKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,6 @@ Dive into my repository to witness the fusion of design and technology. From pix
 
 📫 Let's Connect 📫
 
-Ready to embark on a journey of innovation? Reach out to me at [your@email.com] or find me on LinkedIn to discuss how we can make waves in the digital realm.
+Ready to embark on a journey of innovation? Reach out to me at [adamabbas.webdev@gmail.com] or find me on LinkedIn to discuss how we can make waves in the digital realm.
 
 Let's code, create, and conquer!
